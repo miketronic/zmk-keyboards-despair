@@ -6,4 +6,7 @@ if SHIELD_DESPAIR
 config ZMK_KEYBOARD_NAME
     default "Despair"
 
+config SPI
+	default y
+
 endif
